@@ -3,7 +3,10 @@ import React from 'react'
 const HeroImg = () => {
   return (
     <div className="hero-img">
-      <div></div>
+      <div className='image-overlay'><h1>
+      BRANDING AND RELATIONS CELL
+      </h1>
+  </div>
     </div>
   )
 }
